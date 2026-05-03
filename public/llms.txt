@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+יניר מביא לך פתרונות טכנולוגיים לעסקים קטנים שישנו את המשחק לחלוטין. כלים חכמים, תוצאות מטורפות, והצלחה עסקית שמתחילה כאן ועכשיו. הצטרף אלינו!
+
+### שירותים
+https://example.com/services
+גלה את מגוון השירותים של יניר — כלים דיגיטליים ליזמים שנבנו כדי לפרוץ גבולות. כל שירות מתוכנן להניע תוצאות אמיתיות ולהאיץ את הצמיחה העסקית שלך.
+
+### אודות
+https://example.com/about
+יניר לא נולד מתוך שגרה — נולד מתוך חזון לשנות את הדרך שבה עסקים קטנים מתחרים בשוק. גלה מי אנחנו, מה מניע אותנו, ולמה אלפי יזמים בחרו בנו.
+
+### צור קשר
+https://example.com/contact
+מוכן לקחת את העסק שלך לרמה הבאה? צור קשר עם צוות יניר עכשיו וקבל ייעוץ מותאם אישית. פתרונות טכנולוגיים לעסקים קטנים מחכים לך — אל תחכה יותר!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
